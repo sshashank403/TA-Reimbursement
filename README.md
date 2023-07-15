@@ -7,9 +7,9 @@
 1. **home**:  
 It is the app of our project maintaining various files namely -:  
 
-    (i) `admin.py`: used to register various models of our project.  
+    (i) `admin.py`: used to register the various models of our project.  
 
-    (ii) `models.py`: which maintain various models(class implementation) of our project.  
+    (ii) `models.py`: which maintain the various models(class implementation) of our project.  
 
     (iii) `urls.py`: maintains various urls of different pages.  
 
